@@ -1,4 +1,5 @@
-# Terminal Keeper - Contributing Guide 🌟
+git add .
+git commit -m "Your meaningful commit message"# Terminal Keeper - Contributing Guide 🌟
 
 We're thrilled that you want to contribute to Terminal Keeper, the future of communication! 😄
 
